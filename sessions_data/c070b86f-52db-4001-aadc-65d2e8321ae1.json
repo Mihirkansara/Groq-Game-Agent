@@ -1,0 +1,60 @@
+{
+    "session_id": "c070b86f-52db-4001-aadc-65d2e8321ae1",
+    "current_game_type": "number_game",
+    "game_status": "inprogress",
+    "word_game_cnt": 0,
+    "number_game_cnt": 0,
+    "word_game": {},
+    "number_game": {
+        "game0": [
+            {
+                "user": "number_game",
+                "ai": "Think of a number between 1 and 50, and I will try to guess it."
+            },
+            {
+                "ai": "Think of a number between 1 and 50, and I will try to guess it.",
+                "user": "yes"
+            },
+            {
+                "ai": "Is it greater than or equal to 25?",
+                "user": "no"
+            },
+            {
+                "ai": "Is it less than 18?",
+                "user": "yes"
+            },
+            {
+                "ai": "Is it between 1 and 17?",
+                "user": "yes"
+            },
+            {
+                "ai": "Given your last answer was yes, I will ask more specific questions to narrow down the range. Is it between 8 and 17?",
+                "user": "yes"
+            },
+            {
+                "ai": "Is it between 9 and 16?",
+                "user": "yes"
+            },
+            {
+                "ai": "Is it greater than 13?",
+                "user": "yes"
+            },
+            {
+                "ai": "Is it between 10 and 16?",
+                "user": "yes"
+            },
+            {
+                "ai": "You provided a response but it's not clear. Please answer with a yes or no to the question: Is it between 10 and 16?",
+                "user": "yes"
+            },
+            {
+                "ai": "You still haven't given me a clear answer. Please answer with a yes or no to the question: Is it between 10 and 16?",
+                "user": "yes"
+            },
+            {
+                "ai": "You said yes, but I'm still in the dark. Please think of a number between 1 and 50.",
+                "user": ""
+            }
+        ]
+    }
+}

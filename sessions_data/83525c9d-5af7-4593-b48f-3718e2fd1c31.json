@@ -1,0 +1,20 @@
+{
+    "session_id": "83525c9d-5af7-4593-b48f-3718e2fd1c31",
+    "current_game_type": "number_game",
+    "game_status": "inprogress",
+    "word_game_cnt": 0,
+    "number_game_cnt": 0,
+    "word_game": {},
+    "number_game": {
+        "game0": [
+            {
+                "user": "number_game",
+                "ai": "Think of a number between 1 and 50. I will try to guess it."
+            },
+            {
+                "ai": "Think of a number between 1 and 50. I will try to guess it.",
+                "user": ""
+            }
+        ]
+    }
+}

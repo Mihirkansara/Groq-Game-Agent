@@ -1,0 +1,52 @@
+{
+    "session_id": "31305e94-4610-4557-83ac-c76f3283e2e9",
+    "current_game_type": "number_game",
+    "game_status": "inprogress",
+    "word_game_cnt": 0,
+    "number_game_cnt": 0,
+    "word_game": {},
+    "number_game": {
+        "game0": [
+            {
+                "user": "number_game",
+                "ai": "Great! Please think of a number between 1 and 50. I will try to guess it.Let's start! Is Your number greater than 25?"
+            },
+            {
+                "ai": "Great! Please think of a number between 1 and 50. I will try to guess it.Let's start! Is Your number greater than 25?",
+                "user": "yes"
+            },
+            {
+                "ai": "Is your number greater than 25?",
+                "user": "no"
+            },
+            {
+                "ai": "So your number is less than or equal to 12?",
+                "user": "no"
+            },
+            {
+                "ai": "Okay,is your number between 13 and 18?",
+                "user": "yes"
+            },
+            {
+                "ai": "Interesting! Is your number between 19 to 21?",
+                "user": "no"
+            },
+            {
+                "ai": "Alright,Let's narrow it down further.Is your number between 13 and 15?",
+                "user": "no"
+            },
+            {
+                "ai": "Got It! Is your number between 16 and 18?",
+                "user": "yes"
+            },
+            {
+                "ai": "Is it 17?",
+                "user": "no"
+            },
+            {
+                "ai": "Sorry,it seems I missed it . would you like to play again or return to the main menu?",
+                "user": "yes"
+            }
+        ]
+    }
+}
