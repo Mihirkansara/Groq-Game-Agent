@@ -2,9 +2,6 @@
 
 Welcome to **Human vs AI**, a fun and interactive game powered by Agentic AI workflows using **LangChain** and **LangGraph**. This project demonstrates how agents can interact with humans in a guessing game — using intelligent strategies to either guess a number or a word.
 
-🎥 **Watch the Project Walkthrough Video**  
-[👉 Click here to watch the demo](#) *(Insert your actual video link)*
-
 ---
 ## 🧱 System Architecture Overview (Just for your information)
 
